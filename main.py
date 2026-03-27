@@ -1,4 +1,4 @@
-# Author				: G.M. Yongco #BeSomeoneWhoCanStandByShinomiya
+# Author				: Sela-Vie #BeSomeoneWhoCanStandByShinomiya
 # Date					: ur my date uwu
 # Description			: Code that will impress u ;)
 # Actual Description	: Code that will impress u ;)
